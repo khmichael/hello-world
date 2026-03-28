@@ -13,6 +13,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+//add comment test git 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
